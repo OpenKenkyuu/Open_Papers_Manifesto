@@ -24,7 +24,7 @@ export default function ManifestoText() {
             <br />
             <p className="text-gray-700">
                 An important factor in this process is anonymity, to avoid any conflict of interest in the review proccess.
-                To achieve this, we are using ZK proofs to assure the anonymity of publishers while still allowing the claiming of ownership if desired.
+                To achieve this, future version of this project should include ZK proofs to assure the anonymity of publishers while still allowing the claiming of ownership if desired.
             </p>
             <br />
             <p className="text-gray-700">
